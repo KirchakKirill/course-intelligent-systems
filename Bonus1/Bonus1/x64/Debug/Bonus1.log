@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\kirya\source\repos\Bonus1\Bonus1\main.cpp(118,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirya\source\repos\Bonus1\Bonus1\main.cpp(186,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Bonus1.vcxproj -> C:\Users\kirya\source\repos\Bonus1\x64\Debug\Bonus1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

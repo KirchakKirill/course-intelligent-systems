@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\kirya\Downloads\lab5\lab5\main.cpp(109,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirya\Downloads\lab5\lab5\main.cpp(112,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirya\Downloads\lab5\lab5\main.cpp(115,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\kirya\Downloads\lab5\lab5\main.cpp(240): warning C4715: lab5::backward: значение возвращается не при всех путях выполнения
+  lab5.vcxproj -> C:\Users\kirya\Downloads\lab5\x64\Debug\lab5.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
